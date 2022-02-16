@@ -14,4 +14,4 @@
 
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
-![Discordiy's github stats](https://github-stats-alpha.vercel.app/api/?username=discordiy)
+![Discordiy's github stats](https://github-stats-alpha.vercel.app/api/?username=OshekharO)
