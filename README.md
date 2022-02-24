@@ -1,4 +1,4 @@
-<h1 align="center">&nbsp;<a href="https://www.uncoder.eu.org"> <img src="https://image.flaticon.com/icons/png/512/781/781100.png" width="55px"> </a> <br> ι'м ѕαкѕнαм  </h1> 
+<h1 align="center"> ι'м ѕαкѕнαм  </h1> 
 
 <p align='center'> 
 <a href="https://twitter.com/PirityWasHere"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
