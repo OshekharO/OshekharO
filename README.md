@@ -12,7 +12,7 @@
 
 ✔️ 👋 ʜɪ, ɪ’ᴍ @σѕнєкнєяσ .<br>
 ✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄʀᴀᴄᴋɪɴɢ .<br>
-✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/OshekherO">Telegram</a><br>
+✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/OshekherO">ᴛᴇʟᴇɢʀᴀᴍ</a><br>
 
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
