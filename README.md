@@ -16,7 +16,7 @@
 
 ## ⚡️ 𝚂𝚃𝙰𝚃𝚂 
 
-![Discordiy's github stats](https://github-stats-alpha.vercel.app/api/?username=OshekharO)
+![OshekharO Github Stats](https://github-stats-alpha.vercel.app/api/?username=OshekharO)
 
 <p align='center'> 
 <a href="https://hits.sh/github.com/OshekharO/"><img alt="Hits" src="https://hits.sh/github.com/OshekharO.svg?style=for-the-badge&label=VIEW"/></a>
