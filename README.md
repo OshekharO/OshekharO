@@ -9,7 +9,7 @@
 
 - 👋 Hi, I'm Saksham Shekher.
 - 👤 My pronouns are he/him.
-- 👀 I’m interested in code cracking.
+- 👀 I’m interested in redesigning.
 - 📞 You can reach me on <a href="https://t.me/OshekherO">Telegram</a>.
 
 ## 📊 Github Stats:
