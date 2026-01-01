@@ -55,8 +55,8 @@ Welcome to my GitHub profile!
 ---
 
 ## 📈 GitHub Stats
-![OshekharO's GitHub stats](https://github-readme-stats.vercel.app/api?username=OshekharO&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OshekharO&layout=compact&theme=midnight-purple)
+![OshekharO's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=OshekharO&theme=default&chart=bars)
+![OshekharO's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=OshekharO&type=languages&theme=default&chart=bars)
 
 ---
 
