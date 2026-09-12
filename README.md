@@ -84,7 +84,7 @@ current_focus:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
 
-## 📊 GitHub Analytics & Insights
+## 📊 GitHub Insights
 
 <div align="center">
   <img height="190em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=OshekharO&theme=default&chart=bars" alt="OshekharO's GitHub Stats"/>
