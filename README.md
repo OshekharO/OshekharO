@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Saksham+Shekher+%F0%9F%90%8D;Python+%26+Frontend+Developer+%E2%9A%A1;Data+Enthusiast+%26+AI+Explorer+%F0%9F%A4%96;Web+Indexer+%26+Tech+Innovator+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Saksham+Shekher+%F0%9F%90%8D;Python+%26+Frontend+Developer+%E2%9A%A1;Data+Enthusiast+%26+AI+Explorer+%F0%9F%A4%96;Web+Indexer+%26+Tech+Innovator+%F0%9F%94%8D" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://saksham.thedev.id">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-saksham.thedev.id-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/oshekher">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,13 +15,14 @@
   <a href="https://gitlab.com/OshekharO">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
+  <a href="https://hits.sh/github.com/OshekharO/">
+    <img src="https://hits.sh/github.com/OshekharO.svg?style=for-the-badge&label=VIEWS&color=6366f1&labelColor=1e1e2e" alt="Profile Views"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/OshekharO.svg?style=for-the-badge&label=PROFILE+VIEWS&color=6366f1&labelColor=1e1e2e" alt="Profile Views"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
-
-<img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/hr.gif" width="100%" alt="Divider" />
 
 ## 💫 About Me
 
@@ -46,7 +47,9 @@ current_focus:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/hr.gif" width="100%" alt="Divider" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</p>
 
 ## 🛠️ Tech Stack & Arsenal
 
@@ -77,56 +80,36 @@ current_focus:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/hr.gif" width="100%" alt="Divider" />
-
-## 📊 GitHub Analytics & Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OshekharO&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
 
+## 📊 GitHub Analytics & Insights
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OshekharO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="OshekharO's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshekharO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="190em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=OshekharO&theme=default&chart=bars" alt="OshekharO's GitHub Stats"/>
+  <img height="190em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=OshekharO&type=languages&theme=default&chart=bars" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=OshekharO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=OshekharO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/hr.gif" width="100%" alt="Divider" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</p>
 
-## ⚡ Daily Inspiration & Random Dev Quote
+## ⚡ Daily Dev Quote
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote"/>
 </p>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/hr.gif" width="100%" alt="Divider" />
-
-## 🤝 Let's Connect & Collaborate!
-
-<p align="center">
-  <i>"Building solutions today for a smarter tomorrow."</i>
-</p>
-
-<p align="center">
-  <a href="https://saksham.thedev.id">
-    <img src="https://img.shields.io/badge/Website-visit-indigo?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/oshekher">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/PurityWasHere">
-    <img src="https://img.shields.io/badge/Twitter-follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%"/>
